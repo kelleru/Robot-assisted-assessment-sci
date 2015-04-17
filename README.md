@@ -14,3 +14,5 @@ SPSS_assessment_parameter_data folder
 
 The SPSS folder consists of three subfolders. The first two folders comprise the assessment parameters calculated for the healthy subjects for the dominant and the nondominant hand: 'Healthy dominant (intra-rater analysis)' and 'Healthy nondominant (to complete norm data)'. The third folder includes the patient assessment parameters for the five patients measured: 'Patients all assessments.sav'.
 For healthy subjects and for patients the parameter data for the five different assessments are included (ROM, WORKSPACE, QOM, STRENGTH and RPM). Furthermore, there are parameters in the SPSS data files for single directions and for single targets, while in the paper, only the mean values were used. Additionally, parameters are listed for the WORKSPACE assessment, which were not used for the analysis in the paper.
+
+https://zenodo.org/badge/doi/10.5281/zenodo.16933.svg
