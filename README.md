@@ -1,5 +1,7 @@
 # Robot-assisted-assessment-sci
-This repository was set up accompanying the publication 'Robot-Assisted Arm Assessments in Spinal Cord Injured Patients: A Consideration of Concept Study' in the PLOS ONE journal
+This repository was set up accompanying the publication 'Robot-Assisted Arm Assessments in Spinal Cord Injured Patients: A Consideration of Concept Study' in the PLOS ONE journal. 
+
+Contact information: urs.keller@hest.ethz.ch , robert.riener@hest.ethz.ch , verena.klamroth@hest.ethz.ch 
 
 This repository encompasses two zip-files. 'MATLAB_evaluation_with_sample_data' consists of the MATLAB evaluation code to calculate the assessment parameters and 'SPSS_assessment_parameter_data' includes all the robot-assisted assessment parameters which were used for the analysis in the paper.
 
